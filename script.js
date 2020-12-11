@@ -98,7 +98,7 @@ document.getElementById('d7r2').addEventListener('click', function(){
     results();
 });
 document.getElementById('d7r3').addEventListener('click', function(){
-    rep.push(83);
+    rep.push(73);
     console.log('D7R3 - '+rep);
     results();
 });
